@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430936313065",
+    "project_id": "rapidq-26647",
+    "storage_bucket": "rapidq-26647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430936313065:android:0caeee367f7e1d3acd7478",
+        "android_client_info": {
+          "package_name": "com.bishal.rapidq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430936313065-4pm8ir9h94q5c8sqcpuehms378c7n7s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bishal.rapidq",
+            "certificate_hash": "390d6f2c80ebc8fa8b185ed16181c8bc871f094a"
+          }
+        },
+        {
+          "client_id": "430936313065-th0dip91fm737i88tcfk40jnfbdjtsvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQR8asAZWbbfKVwKhkWvwq_IqCt9GEwCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430936313065-th0dip91fm737i88tcfk40jnfbdjtsvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
